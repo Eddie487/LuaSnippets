@@ -1,0 +1,8 @@
+local seconds = 60
+
+for i,seconds do
+if seconds <= 0 then break end
+  print(seconds)
+  seconds -= 1
+  wait(1)
+end
