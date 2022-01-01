@@ -1,0 +1,7 @@
+local module = {}
+
+module.Func = function()
+
+end
+
+return module
